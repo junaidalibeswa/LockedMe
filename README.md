@@ -1,2 +1,2 @@
 # LockedMe
-Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digitize their products and chose LockedMe.com as their first project 
+Company Lockers Pvt. Ltd. is Dummy company name. The aim to digitize their products and chose LockedMe.com as their first project 
